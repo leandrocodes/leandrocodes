@@ -1,4 +1,4 @@
-<h1 align="center"><img width="75%" src="https://i.ibb.co/Qfjqbsj/carbon.png"></h1>
+<h1 align="center"><img width="100%" src="https://i.ibb.co/Qfjqbsj/carbon.png"></h1>
 
 ## Hello, welcome to my profile!
 
