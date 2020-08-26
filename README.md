@@ -15,6 +15,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <br>	
+<br>	
 
 <p>💻<em> Front End Developer at <a href="http://www.before.com.br">Before TI</em></a> <p>
 <p>🎓<em> Information Systems Academic at <a href="https://www.ufms.br">UFMS</a>
