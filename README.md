@@ -24,7 +24,7 @@
 
 #### Currently Learning 📚
 - Typescript
-- NativeScript
+- Flutter
 - GraphQL
 - UI/UX
 
