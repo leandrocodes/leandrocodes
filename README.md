@@ -39,3 +39,4 @@
 - SASS
 - HTML, CSS & JS
 
+![leandrocodes's github stats](https://github-readme-stats.vercel.app/api?username=leandrocodes&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
