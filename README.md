@@ -23,10 +23,9 @@
 
 
 #### Currently Learning 📚
-- Typescript
-- Flutter
-- GraphQL
-- UI/UX
+[![Typescript Logo](https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png)](https://www.typescriptlang.org/)
+[<img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" alt="drawing" width="128" />](https://flutter.dev/)
+[<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/034/square_256/graphqllogo.png" alt="drawing" width="128" />](https://graphql.org/)
 
 #### Work  Tools 🛠️
 - VS Code
