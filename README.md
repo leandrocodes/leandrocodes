@@ -34,6 +34,7 @@
 
 #### Languages and Frameworks 👨‍💻
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="drawing" width="108" />](https://vuejs.org/)
+[<img src="https://nuxtjs.org/logos/nuxt-icon.png" alt="drawing" width="128" />](https://nuxtjs.org/)
 [<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="drawing" width="128" />](https://sass-lang.com/styleguide/brand)
 [<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="drawing" width="128" />](https://nodejs.org/en/)
 
