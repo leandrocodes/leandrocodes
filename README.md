@@ -27,7 +27,7 @@
 [<img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" alt="drawing" width="128" />](https://flutter.dev/)
 [<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/034/square_256/graphqllogo.png" alt="drawing" width="128" />](https://graphql.org/)
 
-#### Work  Tools 🛠️.
+#### Work  Tools 🛠️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="drawing" width="128" />](https://code.visualstudio.com/)
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" alt="drawing" width="128" />](https://insomnia.rest/)
 [<img src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" alt="drawing" width="128" />](https://www.jetbrains.com/datagrip/)
