@@ -30,7 +30,7 @@
 #### Work  Tools 🛠️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="drawing" width="64" />](https://code.visualstudio.com/)
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" alt="drawing" width="64" />](https://insomnia.rest/)
-[<img src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" alt="drawing" width="64" />](https://www.jetbrains.com/datagrip/)
+[<img src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4" alt="drawing" width="64" />](https://www.beekeeperstudio.io/)
 
 #### Languages and Frameworks 👨‍💻
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="drawing" width="64" />](https://vuejs.org/)
