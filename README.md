@@ -13,7 +13,7 @@
   <img align="left" alt="Leandro Viana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<img align='right' src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="350">
 <br>	
 <br>	
 
