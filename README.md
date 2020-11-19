@@ -37,6 +37,6 @@
 [<img src="https://nuxtjs.org/logos/nuxt-icon.png" alt="drawing" width="64" />](https://nuxtjs.org/)
 [<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="drawing" width="64" />](https://sass-lang.com/styleguide/brand)
 [<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="drawing" width="64" />](https://nodejs.org/en/)
-[<img src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" alt="drawing" width="64" />](https://www.apollographql.com/docs/apollo-server/)
+[<img src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" alt="drawing" width="96" />](https://www.apollographql.com/docs/apollo-server/)
 
 ![leandrocodes's github stats](https://github-readme-stats.vercel.app/api?username=leandrocodes&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
