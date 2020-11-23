@@ -1,7 +1,7 @@
 
  # Hey 👋🏻, I'm [Leandro!](https://leandrocodes.com.br) <img src="https://lh3.googleusercontent.com/-p-NZwV1F6zY/XrBrPs2t5qI/AAAAAAAAAZw/ubTzADi6vbIF5yl5dO5HtmvqEM9nuPixwCEwYBhgLKtMDAL1Ocqwbo6LHnWRKkZf-h8ZN70cpGB-ij4AhAjtsUCf6awbrQ4AMXE59BKWWXQiA9skRPD6B6TCyYzj5Ds-AExTksr-CteG09JdEXLaR4Reob1NWdQpt5Oq0uhv5i_rYxKKZNCrG4CnZ7lyBWOYWp49VCuPwFdSMgrZEKPz9lPkZtzdaqGoPaAPffRTgZZhsR2Wvv0mtdvy4jhBlzRxfMsCQ0PquCW2DFwVWKW0BoPvDptqMz7CqyM5-a9yjkDf8euZcIgj-ExMah2QZVhkwG9LtM-_lo_QfFhzuXfsl_0vfjs-Ezr8bRkj_U54BdsJ84-2MhOFGVjTJ5I8aqkxdJzJ6nph0k4p04Jq24G6VzbbQOsb4Y_aWPi-VWe5jMZdLY1F4DrAUjrPJxpeR0h8j4MYgX6wk0WYQa5_--pHc5iiaZ_8F5syy3v3k0BwgfiW7TjCW83NaVonG2V63lqJRQsIFqov4AJKgQRZxPUwmqrbeTBtt_yDpC_FFFzNnio7FxUjqGVMkGTJ5XmqwkRcy46wuc9q9b3Tp9ljmQOMyzJJW8z9uPBzc9dWscgbfp6aZRPDWD3BkkRqNQjcv0IYAgIWFxHIudZcpBqwUPhL3ln4cl8kwxaOb-gU/w139-h140-p/avataaars%2B%25281%2529.png" width="85">Nice to meet you!
 
-#### I'm a Software Engineer based on Brasil 
+#### I'm Brazilian Software Engineer, often use my knowledge to solve problems creatively and intelligently.
 
 <a href="https://twitter.com/leandrovianam">
   <img align="left" alt="Leandro Viana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
