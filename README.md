@@ -24,7 +24,6 @@
 
 #### Currently Learning 📚
 [![Typescript Logo](https://cdn.iconscout.com/icon/free/png-64/typescript-1-1175078.png)](https://www.typescriptlang.org/)
-[<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="drawing" width="64" />](https://reactjs.org/)
 [<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/034/square_256/graphqllogo.png" alt="drawing" width="64" />](https://graphql.org/)
 
 #### Work  Tools 🛠️
@@ -32,11 +31,13 @@
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" alt="drawing" width="64" />](https://insomnia.rest/)
 [<img src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4" alt="drawing" width="64" />](https://www.beekeeperstudio.io/)
 
-#### Languages and Frameworks 👨‍💻
+#### Languages 👨‍💻
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="64" />]()
+[<img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="drawing" width="64" />]()
+
+
+#### Frameworks 👨‍💻
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="drawing" width="64" />](https://vuejs.org/)
-[<img src="https://nuxtjs.org/logos/nuxt-icon.png" alt="drawing" width="64" />](https://nuxtjs.org/)
-[<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="drawing" width="64" />](https://sass-lang.com/styleguide/brand)
-[<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="drawing" width="64" />](https://nodejs.org/en/)
-[<img src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" alt="drawing" width="96" />](https://www.apollographql.com/docs/apollo-server/)
+[<img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" alt="drawing" width="64" />](https://www.apollographql.com/docs/apollo-server/)
 
 ![leandrocodes's github stats](https://github-readme-stats.vercel.app/api?username=leandrocodes&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
