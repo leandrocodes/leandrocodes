@@ -17,8 +17,8 @@
 <br>	
 <br>	
 
-<p>💻<em> Front End Developer at <a href="http://www.before.com.br">Before TI</em></a> <p>
-<p>🎓<em> Information Systems Academic at <a href="https://www.ufms.br">UFMS</a>
+<p>💻<em> Front End Engineer at <a href="http://www.before.com.br">Before TI</em></a> <p>
+<p>🎓<em> Information Systems Bachelor, Graduated at <a href="https://www.ufms.br">UFMS</a>
 </em></p>
 
 
