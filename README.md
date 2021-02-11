@@ -12,6 +12,9 @@
   <img align="left" alt="Leandro Viana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
+<br>
+
 <p>💻<em> Front End Engineer at <a href="http://www.before.com.br">Before TI</em></a> <p>
 <p>🎓<em> Information Systems Bachelor, Graduated at <a href="https://www.ufms.br">UFMS</a>
 </em></p>
