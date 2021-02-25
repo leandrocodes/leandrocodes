@@ -12,6 +12,7 @@
 
 #### Currently Learning 📚
 [![Typescript Logo](https://cdn.iconscout.com/icon/free/png-64/typescript-1-1175078.png)](https://www.typescriptlang.org/)
+[<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="drawing" width="64" />](https://reactjs.org/)
 [<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/034/square_256/graphqllogo.png" alt="drawing" width="64" />](https://graphql.org/)
 
 #### Work  Tools 🛠️
