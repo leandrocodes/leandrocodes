@@ -12,7 +12,7 @@
 
 #### Currently Learning 📚
 [![Typescript Logo](https://cdn.iconscout.com/icon/free/png-64/typescript-1-1175078.png)](https://www.typescriptlang.org/)
-[<img src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="drawing" width="64" />](https://reactjs.org/)
+[<img src="https://iconape.com/wp-content/png_logo_vector/react-2.png" alt="react logo" width="64" />](https://reactjs.org/)
 [<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/034/square_256/graphqllogo.png" alt="drawing" width="64" />](https://graphql.org/)
 
 #### Work  Tools 🛠️
