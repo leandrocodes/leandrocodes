@@ -28,3 +28,5 @@
 
 
 ![leandrocodes's github stats](https://github-readme-stats.vercel.app/api?username=leandrocodes&hide=contribs,issues&show_icons=true&line_height=21&theme=radical)
+
+The Universe is under no obligation to make sense to you. - Neil deGrasse Tyson
