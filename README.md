@@ -1,7 +1,7 @@
 
 
 
- <img align='center' src="https://i.imgur.com/DkuuoQr.png">
+ <img align='center' src="https://i.imgur.com/DsSwdJ2.png">
 
 <p style="display: flex; justify-content: center; width: 100%"><a href="https://www.twitter.com/leandrovianam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/leandro-viana-45a1a9168/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/leandrovianam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
